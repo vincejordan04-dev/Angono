@@ -1,5 +1,5 @@
 ﻿<Solution>
   <Project Path="Assembly-CSharp-firstpass.csproj" />
-  <Project Path="SimpleGDPRConsent.Runtime.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="SimpleGDPRConsent.Runtime.csproj" />
 </Solution>
