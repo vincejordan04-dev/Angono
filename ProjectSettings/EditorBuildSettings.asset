@@ -9,17 +9,35 @@ EditorBuildSettings:
     path: Assets/Scenes/App Designs/Introduction.unity
     guid: 5cb858f00bed6d54bb59b6ccfd683f78
   - enabled: 1
-    path: Assets/Scenes/App Designs/AppPermissions.unity
+    path: Assets/Scenes/App Designs/VisitorScenes/AppPermissions.unity
     guid: fe9ff8a9c39047d439895b8eecd8e09f
   - enabled: 1
-    path: Assets/Scenes/App Designs/MainFunc.unity
+    path: Assets/Scenes/App Designs/VisitorScenes/MainFunc.unity
     guid: a78346e1d1005b14b8f145c14c3c0fa9
   - enabled: 1
-    path: Assets/Scenes/App Designs/AdminPath.unity
+    path: Assets/Scenes/App Designs/AdminScenes/AdminPath.unity
     guid: 352c70aa573a7e14b85e52fc46b72a4a
   - enabled: 1
-    path: Assets/Scenes/App Designs/AdminDashboard.unity
+    path: Assets/Scenes/App Designs/AdminScenes/AdminDashboard.unity
     guid: b74e254cad05d4b46b473218b4df65d7
+  - enabled: 1
+    path: Assets/Scenes/App Designs/VisitorScenes/Quiz/QuizIntro.unity
+    guid: a4bfad30e1bf6824882ee91ed5f580f4
+  - enabled: 1
+    path: Assets/Scenes/App Designs/VisitorScenes/Quiz/Quiz#1.unity
+    guid: e66b2aaebb3f75943ada7c55f1dd374d
+  - enabled: 1
+    path: Assets/Scenes/App Designs/VisitorScenes/Quiz/QuizEnd.unity
+    guid: 5611cddbb9cb73d41ace29ca8b484905
+  - enabled: 1
+    path: Assets/Scenes/App Designs/VisitorScenes/Quiz/Feedback.unity
+    guid: 55d37a192284d7a40b31578b5aae6987
+  - enabled: 1
+    path: Assets/Scenes/App Designs/VisitorScenes/Gallery/Gallery.unity
+    guid: 7daf7b999f4545c4293c25e4d13d891f
+  - enabled: 1
+    path: Assets/Scenes/App Designs/VisitorScenes/Gallery/PageA.unity
+    guid: a388629e1e53e9b41b0cf122156e1a37
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: cd2bb5ff53cd87c4abbb79166f753102, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: e0d114fb9a23b8a4289a79e744fcd910, type: 2}
