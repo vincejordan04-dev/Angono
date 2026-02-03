@@ -1,4 +1,6 @@
+using Unity.Loading;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class CameraManager : MonoBehaviour
@@ -7,12 +9,11 @@ public class CameraManager : MonoBehaviour
     private Texture defaultBackground;
 
     public RawImage background;
-    public Button cameraButton;
 
     // Start is called before the first frame update
     void Start()
     {
-        cameraButton.onClick.AddListener(OpenCamera);
+        OpenCamera();
     }
 
     public void OpenCamera()
