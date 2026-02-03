@@ -12,8 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/App Designs/VisitorScenes/AppPermissions.unity
     guid: fe9ff8a9c39047d439895b8eecd8e09f
   - enabled: 1
-    path: Assets/Scenes/App Designs/VisitorScenes/MainFunc.unity
-    guid: a78346e1d1005b14b8f145c14c3c0fa9
+    path: Assets/Scenes/App Designs/Main.unity
+    guid: 825d5d101c09b5644a32977cf8d93813
   - enabled: 1
     path: Assets/Scenes/App Designs/AdminScenes/AdminPath.unity
     guid: 352c70aa573a7e14b85e52fc46b72a4a
@@ -22,7 +22,7 @@ EditorBuildSettings:
     guid: b74e254cad05d4b46b473218b4df65d7
   - enabled: 1
     path: Assets/Scenes/App Designs/VisitorScenes/Quiz/QuizIntro.unity
-    guid: a4bfad30e1bf6824882ee91ed5f580f4
+    guid: a64cdc2bbc2868b46913301aa6a065b6
   - enabled: 1
     path: Assets/Scenes/App Designs/VisitorScenes/Quiz/Quiz#1.unity
     guid: e66b2aaebb3f75943ada7c55f1dd374d
