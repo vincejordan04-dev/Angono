@@ -41,6 +41,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/App Designs/3DmodelScenes/3Dmodel#A.unity
     guid: 7d351108224981142a93835538e08210
+  - enabled: 1
+    path: Assets/Scenes/App Designs/AdminScenes/AdminFeedback.unity
+    guid: 1e737f5186a21314494c05ef88a7d263
+  - enabled: 1
+    path: Assets/Scenes/App Designs/AdminScenes/AdminQuiz.unity
+    guid: c0dcd208d1f41ba4a8a8aedd00af36bf
+  - enabled: 1
+    path: Assets/Scenes/App Designs/AdminScenes/QuizQuestions/AdminQuiz#1.unity
+    guid: 57608757c9560b44caa88532b5873503
+  - enabled: 1
+    path: Assets/Scenes/App Designs/AdminScenes/AdminGallery/AdminGallery.unity
+    guid: c120f09e86ff1944397ae36dfbe2ffad
+  - enabled: 1
+    path: Assets/Scenes/App Designs/AdminScenes/AdminGallery/AdminPageA.unity
+    guid: f6324a21fa43f9b4ba3d77514db6dba6
+  - enabled: 1
+    path: Assets/Scenes/App Designs/AdminScenes/Admin3DmodelScenes/Admin3Dmodel#A.unity
+    guid: 1b9d0fe61251de64fa9273a9df712392
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: cd2bb5ff53cd87c4abbb79166f753102, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: e0d114fb9a23b8a4289a79e744fcd910, type: 2}
